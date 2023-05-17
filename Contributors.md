@@ -1717,8 +1717,10 @@ chani-israel
 - [Viet Quoc Nguyen](https://github.com/viet2307)
 - [Phuong Nguyen](https://github.com/png261)
 - [Lennart Pries](https://github.com/lennart02)
+- [Nashra Babar ](https://github.com/nashra123)
 - Aviya Atias
 - [Carlos Sais](https://github.com/csais3)
 - [Sameer Kumar singh](https://github.com/xvisierra)
 - <!-- prettier-ignore-end -->
 - [Jimmy Batuhan](https://github.com/jimmybatuhan)
+
